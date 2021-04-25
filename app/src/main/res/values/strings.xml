@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Ai Application</string>
+    <string name="select_text_button">Select</string>
+    <string name="detect_text_button">Detect</string>
+    <string name="test_text">test</string>
+    <string name="probability_test">48%</string>
+</resources>
